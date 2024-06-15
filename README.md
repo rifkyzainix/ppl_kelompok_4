@@ -3,4 +3,4 @@
 ### Risyad Addiva Hadid 1217050
 ### Salma Khoirunnisa 1217050130
 ### Sigit Julianto 1217050132
-### Arif Rahman Sopian 1217050
+### Arif Rahman Sopian 1217050020
