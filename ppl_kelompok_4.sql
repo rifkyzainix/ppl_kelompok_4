@@ -1,22 +1,9 @@
--- phpMyAdmin SQL Dump
--- version 4.9.0.1
--- https://www.phpmyadmin.net/
---
--- Host: localhost:3306
--- Generation Time: Nov 20, 2019 at 08:07 AM
--- Server version: 5.7.26
--- PHP Version: 7.3.8
+
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
 
---
--- Database: `project_pos`
---
 
--- --------------------------------------------------------
-
---
 -- Table structure for table `invoice`
 --
 
